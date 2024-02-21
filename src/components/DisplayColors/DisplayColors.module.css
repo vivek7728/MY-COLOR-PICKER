@@ -1,0 +1,10 @@
+.display{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.underDisplay{
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+}

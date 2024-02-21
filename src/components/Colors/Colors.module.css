@@ -1,0 +1,31 @@
+.head{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.addColor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-weight: bolder;
+    margin: 20px;
+}
+input{
+    margin-left: 10px;
+}
+.align{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.supported {
+    background-color: rgb(212, 207, 207);
+    height: auto;
+    width: auto;
+    padding: 10px;
+    border: 2px solid black;
+  }
